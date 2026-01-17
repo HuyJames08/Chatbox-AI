@@ -1,5 +1,9 @@
 # 🤖 Chatbox AI - Streamlit + Gemini
 
+## 📸 Demo giao diện
+
+![Demo Chatbot](demo.png)
+
 Một chatbot AI thân thiện được xây dựng bằng **Google Gemini API** và **Streamlit**.  
 Hỗ trợ tiếng Việt, giao diện đẹp, có lưu lịch sử hội thoại ra file `.json`, tự động retry khi API quá tải.
 
