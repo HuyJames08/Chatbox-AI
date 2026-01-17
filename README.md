@@ -63,7 +63,7 @@ python --version
 
 **Tùy chọn A - Nếu dự án đã trên GitHub:**
 ```bash
-git clone https://github.com/your-username/Chatbox-AI.git
+git clone https://github.com/HuyJames08/Chatbox-AI.git
 cd Chatbox-AI
 ```
 
@@ -162,13 +162,7 @@ Bạn có thể chỉnh sửa instruction trong file `app.py` (dòng `SYSTEM_INS
 
 
 
-#
 
-## 📝 License
-
-Dự án này được phát hành dưới giấy phép **MIT** - Tự do sử dụng, sửa đổi, phân phối.
-
----
 
 ## 👨‍💻 Tác giả
 
@@ -176,19 +170,6 @@ Made with ❤️ bằng Streamlit + Google Gemini API
 
 ---
 
-## 🤝 Đóng góp
 
-Nếu bạn tìm thấy bug hoặc có gợi ý, vui lòng:
-- Tạo Issue trên GitHub
-- Hoặc Submit Pull Request
-
----
-
-## 📞 Hỗ trợ
-
-Nếu gặp vấn đề:
-1. Kiểm tra phần **Troubleshooting** ở trên
-2. Xem [Google Gemini API Docs](https://ai.google.dev/docs)
-3. Xem [Streamlit Docs](https://docs.streamlit.io)
 
 
